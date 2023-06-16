@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*:focus {
+  outline: 0;
+}
+
+.swiper-slide {
+  width: 500px;
+}
+
+.card {
+  height: 435px;
+
+  position: relative;
+  width: 2000px;
+}
+
+.card .content {
+  padding: 30px;
+  width: 2000px;
+}
+
+.card .content a {
+  font-weight: 600;
+
+  text-decoration: none;
+}
+
+.card .slider-text {
+  -webkit-box-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: flex;
+  height: 200px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  position: relative;
+}
+
+.card .slider-text h3 {
+  font-size: 3em;
+}

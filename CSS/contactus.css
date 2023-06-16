@@ -1,0 +1,1238 @@
+.mediaViewInfo {
+    --web-view-name: Contact Us;
+    --web-view-id: Contact_Us;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+.mobile-container {
+    max-width: 480px;
+    margin: auto;
+    background-color: #555;
+    height: 500px;
+    color: white;
+    border-radius: 10px;
+}
+
+.topnav {
+    display: none;
+    overflow: hidden;
+    background-color: rgba(255, 190, 11, 1);
+    position: relative;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 27px;
+    font-family: 'gilroybold';
+    text-align: left;
+    display: block;
+}
+
+.topnav a.icon {
+    background: white;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: rgba(255, 190, 11, 1);
+    color: black;
+}
+
+.active {
+    background-color: white;
+    color: white;
+    height: 49px;
+}
+
+:root {
+    --web-view-ids: Contact_Us;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1d1e18;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #f61067;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+.Contact_Us_Class {
+    position: absolute;
+    width: 1920px;
+    height: 1993px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Contact Us;
+    --web-view-id: Contact_Us;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1522px;
+    height: 789px;
+    left: 199.5px;
+    top: 1104px;
+    overflow: visible;
+}
+
+.ONLOOKER_2020_Class {
+    left: 711.5px;
+    top: 769.5px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Linkedin_Logo_Class {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 781.5px;
+    top: 666px;
+    overflow: visible;
+}
+
+.Rectangle_1822_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_1822 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_481_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_481 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 20.398px;
+    left: 9.701px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_482_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_482 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 7.214px;
+    left: 9.701px;
+    top: 9.702px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_483_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_483 {
+    overflow: visible;
+    position: absolute;
+    width: 19.403px;
+    height: 20.398px;
+    left: 20.896px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.containerNav {
+    display: none;
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 690.5px;
+    top: 666px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Copyright_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Copyright {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 688.5px;
+    top: 769px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.ID7th_floor__vl_Mehta_road__vi_Class {
+    left: 1135px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 241px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(65, 62, 62, 1);
+    text-transform: capitalize;
+}
+
+.Location_Icon_Class {
+    position: absolute;
+    width: 12.943px;
+    height: 20px;
+    left: 1100px;
+    top: 523px;
+    overflow: visible;
+}
+
+.Path_280_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_280 {
+    overflow: visible;
+    position: absolute;
+    width: 12.942px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_Class {
+    left: 1191px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -3.5px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Juweria_Jilani_-__91_98925_930_Class {
+    left: 633.5px;
+    top: 604px;
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Sakshi_Siddham_-__91_99108_179_Class {
+    left: 633.5px;
+    top: 571px;
+    position: absolute;
+    overflow: visible;
+    width: 312px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Phone_Icon_Class {
+    position: absolute;
+    width: 20.004px;
+    height: 20px;
+    left: 602px;
+    top: 571.217px;
+    overflow: visible;
+}
+
+.Path_279_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_279 {
+    overflow: visible;
+    position: absolute;
+    width: 20.003px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.onlookersnmimsgmailcom_Class {
+    left: 659px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Mail_Icon_Class {
+    position: absolute;
+    width: 26.423px;
+    height: 20px;
+    left: 612px;
+    top: 518px;
+    overflow: visible;
+}
+
+.Path_277_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_277 {
+    overflow: visible;
+    position: absolute;
+    width: 25.678px;
+    height: 11.603px;
+    left: 0.386px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_278_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_278 {
+    overflow: visible;
+    position: absolute;
+    width: 26.423px;
+    height: 17.297px;
+    left: 0px;
+    top: 2.703px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.contact_us_Class {
+    left: 687px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 156px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.Component_11__6_Class {
+    position: absolute;
+    width: 177px;
+    height: 23px;
+    left: 211.5px;
+    top: 559px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Terms__Conditions;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Component_10__6_Class {
+    position: absolute;
+    width: 124px;
+    height: 23px;
+    left: 238.5px;
+    top: 516px;
+    overflow: visible;
+}
+
+.Privacy_Policy_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Privacy_Policy;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Legal_Class {
+    left: 262px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.developed_by_tech_club_Class {
+    left: 647.5px;
+    top: 389px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+._Tech_Club_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 692.5px;
+    top: 231px;
+    overflow: visible;
+}
+
+.Right_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Right_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 945px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Footer_Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 640.5px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Left_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Left_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 0px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Contact_Us_Section_Class {
+    position: absolute;
+    width: 1084.344px;
+    height: 735px;
+    left: 420px;
+    top: 262px;
+    overflow: visible;
+}
+
+.Submit_Button_Class {
+    position: absolute;
+    width: 237px;
+    height: 63px;
+    left: 541.344px;
+    top: 672px;
+    overflow: visible;
+    left: 280px;
+}
+
+.Button_Class {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Button {
+    position: absolute;
+    overflow: visible;
+    width: 237px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+
+.Submit_Class {
+    left: 69px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Contact_Us_Form_Class {
+    position: absolute;
+    width: 808px;
+    height: 602.5px;
+    left: 276.344px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Type_Input_Class {
+    position: absolute;
+    width: 808px;
+    height: 122.5px;
+    left: 0px;
+    top: 480px;
+    overflow: visible;
+}
+
+.Type_Here_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Type_Here_Line {
+    overflow: visible;
+    position: absolute;
+    width: 808px;
+    height: 1px;
+    left: 0px;
+    top: 122.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Type_Here_Class {
+    left: 3.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'gilroylight';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Phone_Input_Class {
+    position: absolute;
+    width: 806px;
+    height: 64.5px;
+    left: 2px;
+    top: 320px;
+    overflow: visible;
+}
+
+.Phone_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Phone_Line {
+    overflow: visible;
+    position: absolute;
+    width: 806px;
+    height: 1px;
+    left: 0px;
+    top: 64.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Phone_Class {
+    left: 2.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 99px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'gilroylight';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Email_Input_Class {
+    position: absolute;
+    width: 805px;
+    height: 65.5px;
+    left: 3px;
+    top: 160px;
+    overflow: visible;
+}
+
+.Email_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Email_Line {
+    overflow: visible;
+    position: absolute;
+    width: 805px;
+    height: 1px;
+    left: 0px;
+    top: 65.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Email_Class {
+    left: 1.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'gilroylight';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Name_Input_Class {
+    position: absolute;
+    width: 808px;
+    height: 65.5px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Name_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Name_Line {
+    overflow: visible;
+    position: absolute;
+    width: 808px;
+    height: 1px;
+    left: 0px;
+    top: 65.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Name_Class {
+    left: 4.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 95px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Side_Bar_Class {
+    position: absolute;
+    width: 216.839px;
+    height: 665px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Yellow_Box_Class {
+    fill: rgba(255, 190, 11, 1);
+}
+
+.Yellow_Box_Class_2 {
+    fill: rgba(255, 190, 11, 1);
+}
+
+.Yellow_Box {
+    overflow: visible;
+    position: absolute;
+    width: 216.84px;
+    height: 312.3px;
+    left: 0px;
+    top: 352.7px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Yellow_Box_2 {
+    overflow: visible;
+    position: absolute;
+    width: 216.84px;
+    height: 312.3px;
+    left: 0px;
+    top: 352.7px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    display: none;
+}
+
+.Black_Box_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Black_Box {
+    overflow: visible;
+    position: absolute;
+    width: 110.187px;
+    height: 193.13px;
+    left: 0px;
+    top: 352.7px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Pink_Box_Class {
+    opacity: 0.999;
+    fill: rgba(255, 39, 97, 1);
+}
+
+.Pink_Box {
+    overflow: visible;
+    position: absolute;
+    width: 216.84px;
+    height: 424.391px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Logo_b_Class {
+    position: absolute;
+    width: 48.411px;
+    height: 48.427px;
+    left: 126.055px;
+    top: 586.87px;
+    overflow: visible;
+}
+
+.link_big_circle_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.link_big_circle {
+    overflow: visible;
+    position: absolute;
+    width: 48.41px;
+    height: 48.427px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.link__n_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.link__n {
+    overflow: visible;
+    position: absolute;
+    width: 15.224px;
+    height: 15.828px;
+    left: 22.143px;
+    top: 19.834px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.link_rectangle_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.link_rectangle {
+    overflow: visible;
+    position: absolute;
+    width: 4.634px;
+    height: 15.115px;
+    left: 14.517px;
+    top: 20.547px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.link_circle_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.link_circle {
+    overflow: visible;
+    position: absolute;
+    width: 4.828px;
+    height: 4.77px;
+    left: 14.342px;
+    top: 11.801px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_cb_Class {
+    position: absolute;
+    width: 48.399px;
+    height: 48.427px;
+    left: 50px;
+    top: 586.87px;
+    overflow: visible;
+}
+
+.insta_bigger_circle_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.insta_bigger_circle {
+    overflow: visible;
+    position: absolute;
+    width: 48.399px;
+    height: 48.427px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.insta_big_cirlce_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.insta_big_cirlce {
+    overflow: visible;
+    position: absolute;
+    width: 22.729px;
+    height: 22.437px;
+    left: 12.867px;
+    top: 12.109px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.insta_circle_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.insta_circle {
+    overflow: visible;
+    position: absolute;
+    width: 4.771px;
+    height: 4.975px;
+    left: 34.533px;
+    top: 8.695px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Phone_Icon_cf_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Phone_Icon_cf {
+    overflow: visible;
+    position: absolute;
+    width: 45.175px;
+    height: 44.38px;
+    left: 86.169px;
+    top: 277.343px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Mail_Icon_cg_Class {
+    position: absolute;
+    width: 47.782px;
+    height: 34.524px;
+    left: 82.021px;
+    top: 177.321px;
+    overflow: visible;
+}
+
+.Bottom_Part_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Bottom_Part {
+    overflow: visible;
+    position: absolute;
+    width: 47.782px;
+    height: 31.28px;
+    left: 0px;
+    top: 3.244px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Top_Part_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Top_Part {
+    overflow: visible;
+    position: absolute;
+    width: 46.437px;
+    height: 20.983px;
+    left: 0.697px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Location_Icon_cj_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Location_Icon_cj {
+    overflow: visible;
+    position: absolute;
+    width: 32.193px;
+    height: 49.63px;
+    transform: translate(-421.656px, -262px) matrix(1, 0, 0, 1, 511.8354, 324.3764) rotate(1deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1457.293px;
+    height: 240px;
+    left: 418px;
+    top: -60px;
+    overflow: visible;
+}
+
+.Instagram_Nav_cm_Class {
+    fill: url(#Instagram_Nav_cm);
+}
+
+.Instagram_Nav_cm {
+    overflow: visible;
+    position: absolute;
+    width: 97.335px;
+    height: 159.806px;
+    left: 1359.958px;
+    top: 59.999px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Nav_Class {
+    fill: rgba(14, 118, 168, 1);
+}
+
+.Linkedin_Nav {
+    overflow: visible;
+    position: absolute;
+    width: 97.337px;
+    height: 159.807px;
+    left: 1270px;
+    top: 59.998px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Features_Class {
+    position: absolute;
+    width: 120px;
+    height: 34px;
+    left: 964px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Features;
+    cursor: pointer;
+}
+
+.Features_cp_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Contact_Us_cq_Class {
+    position: absolute;
+    width: 154px;
+    height: 37px;
+    left: 714px;
+    top: 120px;
+    overflow: visible;
+}
+
+.Contact_Us_cr_Class {
+    left: 0px;
+    top: 5px;
+    position: absolute;
+    overflow: visible;
+    width: 155px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 410px;
+    top: 0px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+}
+
+.Magazines_Class {
+    position: absolute;
+    width: 150px;
+    height: 34px;
+    left: 198px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Magazines;
+    cursor: pointer;
+}
+
+.Magazines_cu_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 151px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.About_Class {
+    position: absolute;
+    width: 84px;
+    height: 34px;
+    left: 0px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Our_Story;
+    cursor: pointer;
+}
+
+.About_cw_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+input {
+    width: 810px;
+    height: 65px;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.input-group__input {
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+*:focus {
+    outline: none;
+}
+
+.Submit_Button {
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    border: 5px solid rgba(0, 0, 0, 1);
+    background: transparent;
+    border-radius: 50px;
+    padding-left: 10px;
+    width: 200px;
+}

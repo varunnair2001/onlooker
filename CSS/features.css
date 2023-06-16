@@ -1,0 +1,1018 @@
+.mediaViewInfo {
+    --web-view-name: Features;
+    --web-view-id: Features;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+.topnav {
+    display: none;
+    overflow: hidden;
+    background-color: rgba(255, 190, 11, 1);
+    position: relative;
+    width: 400px;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 27px;
+    font-family: 'gilroybold';
+    text-align: left;
+    display: block;
+}
+
+.topnav a.icon {
+    background: white;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: rgba(255, 190, 11, 1);
+    color: black;
+}
+
+.active {
+    background-color: white;
+    color: white;
+    height: 49px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1d1e18;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #f61067;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+:root {
+    --web-view-ids: Features;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.containerNav {
+    display: none;
+}
+
+.Features_Class {
+    position: absolute;
+    width: 1920px;
+    height: 1993px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Features;
+    --web-view-id: Features;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+    .card {
+        height: 435px;
+        position: relative;
+        width: 600px;
+    }
+    .card .content {
+        padding: 30px;
+        width: 600px;
+    }
+    .card .content a {
+        font-weight: 600;
+        margin: 10px 0 0;
+        padding: 10px 20px;
+        text-decoration: none;
+    }
+    .card .slider-text {
+        -webkit-box-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: flex;
+        height: 200px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        position: relative;
+        width: 100%;
+    }
+    .card .slider-text h3 {
+        font-size: 3em;
+    }
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1522px;
+    height: 789px;
+    left: 199.5px;
+    top: 1104px;
+    overflow: visible;
+}
+
+.ONLOOKER_2020_Class {
+    left: 711.5px;
+    top: 769.5px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Copyright_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Copyright {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 688.5px;
+    top: 769px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Logo_Class {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 781.5px;
+    top: 666px;
+    overflow: visible;
+}
+
+.Rectangle_1822_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_1822 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_481_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_481 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 20.398px;
+    left: 9.701px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_482_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_482 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 7.214px;
+    left: 9.701px;
+    top: 9.702px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_483_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_483 {
+    overflow: visible;
+    position: absolute;
+    width: 19.403px;
+    height: 20.398px;
+    left: 20.896px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 690.5px;
+    top: 666px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.ID7th_floor__vl_Mehta_road__vi_Class {
+    left: 1135px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 241px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(65, 62, 62, 1);
+    text-transform: capitalize;
+}
+
+.Location_Icon_Class {
+    position: absolute;
+    width: 12.943px;
+    height: 20px;
+    left: 1100px;
+    top: 523px;
+    overflow: visible;
+}
+
+.Path_280_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_280 {
+    overflow: visible;
+    position: absolute;
+    width: 12.942px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_Class {
+    left: 1191px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -3.5px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Juweria_Jilani_-__91_98925_930_Class {
+    left: 633.5px;
+    top: 604px;
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Sakshi_Siddham_-__91_99108_179_Class {
+    left: 633.5px;
+    top: 571px;
+    position: absolute;
+    overflow: visible;
+    width: 312px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Phone_Icon_Class {
+    position: absolute;
+    width: 20.004px;
+    height: 20px;
+    left: 602px;
+    top: 571.217px;
+    overflow: visible;
+}
+
+.Path_279_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_279 {
+    overflow: visible;
+    position: absolute;
+    width: 20.003px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.onlookersnmimsgmailcom_Class {
+    left: 659px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Mail_Icon_Class {
+    position: absolute;
+    width: 26.423px;
+    height: 20px;
+    left: 612px;
+    top: 518px;
+    overflow: visible;
+}
+
+.Path_277_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_277 {
+    overflow: visible;
+    position: absolute;
+    width: 25.678px;
+    height: 11.603px;
+    left: 0.386px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_278_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_278 {
+    overflow: visible;
+    position: absolute;
+    width: 26.423px;
+    height: 17.297px;
+    left: 0px;
+    top: 2.703px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.contact_us_Class {
+    left: 687px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 156px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.Component_11__7_Class {
+    position: absolute;
+    width: 177px;
+    height: 23px;
+    left: 211.5px;
+    top: 559px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Terms__Conditions;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Component_10__7_Class {
+    position: absolute;
+    width: 124px;
+    height: 23px;
+    left: 238.5px;
+    top: 516px;
+    overflow: visible;
+}
+
+.Privacy_Policy_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Privacy_Policy;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Legal_Class {
+    left: 262px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.developed_by_tech_club_Class {
+    left: 647.5px;
+    top: 389px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+._Tech_Club_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 692.5px;
+    top: 231px;
+    overflow: visible;
+}
+
+.Right_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Right_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 945px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Footer_Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 640.5px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Left_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Left_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 0px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Our_Work_Section_Class {
+    position: absolute;
+    width: 2587px;
+    height: 1000px;
+    left: 64px;
+    top: 208px;
+    overflow: visible;
+}
+
+.Drag_Through_Class {
+    position: absolute;
+    width: 464px;
+    height: 49px;
+    left: 664px;
+    top: 740px;
+    overflow: visible;
+}
+
+.Text_Underline_bo_Class {
+    fill: url(#Text_Underline_bo);
+}
+
+.Text_Underline_bo {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.22));
+    position: absolute;
+    overflow: visible;
+    width: 482px;
+    height: 23px;
+    left: 8px;
+    top: 44px;
+}
+
+.Drag_through_our_categories_Class {
+    left: -8px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 465px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Slider_Class {
+    position: absolute;
+    width: 2587px;
+    height: 435px;
+    right: 495px;
+    top: 206px;
+    overflow: visible;
+}
+
+.Our_Artwork_Class {
+    position: absolute;
+    width: 810px;
+    height: 435px;
+    left: 1777px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Our_Photos_Class {
+    position: absolute;
+    width: 810px;
+    height: 435px;
+    left: 879px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Our_Photos_Picture_Class {
+    position: absolute;
+    width: 810px;
+    height: 435px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.View_Button_Class {
+    position: absolute;
+    width: 170ßpx;
+    height: 37px;
+    left: 35px;
+    top: 367px;
+    overflow: visible;
+}
+
+.Yellow_Artwork_Box_Class {
+    fill: rgba(255, 190, 11, 1);
+}
+
+.Yellow_Artwork_Box {
+    position: absolute;
+    overflow: visible;
+    width: 160px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+}
+
+.view_our_photos_Class {
+    left: 10px;
+    top: 7px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    line-height: 33px;
+    margin-top: -7px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.our_photos_Class {
+    left: 35px;
+    top: 42px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Our_Articles_Class {
+    position: absolute;
+    width: 791px;
+    height: 435px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Our_Articles_Photo_Class {
+    position: absolute;
+    width: 791px;
+    height: 435px;
+    left: -100px;
+    top: 0px;
+    overflow: visible;
+}
+
+.View_Button_b_Class {
+    position: absolute;
+    width: 159px;
+    height: 45px;
+    left: -65px;
+    top: 367px;
+    overflow: visible;
+}
+
+.View_Button_c_Class {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    left: -65px;
+    top: 367px;
+    overflow: visible;
+}
+
+.View_Button_a_Class {
+    position: absolute;
+    width: 159px;
+    height: 45px;
+    left: -65px;
+    top: 367px;
+    overflow: visible;
+}
+
+.Button_Class {
+    fill: rgba(255, 190, 11, 1);
+    width: 180px;
+    rx: 25;
+    ry: 25;
+    height: 45px;
+}
+
+.Button_Class1 {
+    fill: rgba(255, 190, 11, 1);
+    width: 180px;
+    height: 45px;
+    rx: 25;
+    ry: 25;
+}
+
+.Button_Class2 {
+    fill: rgba(255, 190, 11, 1);
+    width: 200px;
+    height: 45px;
+    rx: 25;
+    ry: 25;
+}
+
+.Button {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 45px;
+    left: -10px;
+    top: -2px;
+}
+
+.Button1 {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 45px;
+    left: -6px;
+    top: -2px;
+}
+
+.view_our_articles_Class {
+    left: 7px;
+    top: 11px;
+    position: absolute;
+    overflow: visible;
+    width: 146px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Features__2;
+    cursor: pointer;
+    line-height: 33px;
+    margin-top: -7px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.our_articles_Class {
+    left: -60px;
+    top: 42px;
+    position: absolute;
+    overflow: visible;
+    width: 237px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.OUR_WORK_Class {
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.571));
+    left: 579px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 636px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(255, 190, 11, 1);
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1457.293px;
+    height: 240px;
+    left: 418px;
+    top: -60px;
+    overflow: visible;
+}
+
+.Instagram_Nav_b_Class {
+    fill: url(#Instagram_Nav_b);
+}
+
+.Instagram_Nav_b {
+    overflow: visible;
+    position: absolute;
+    width: 97.335px;
+    height: 159.806px;
+    left: 1359.958px;
+    top: 59.999px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Nav_Class {
+    fill: rgba(14, 118, 168, 1);
+}
+
+.Linkedin_Nav {
+    overflow: visible;
+    position: absolute;
+    width: 97.337px;
+    height: 159.807px;
+    left: 1270px;
+    top: 59.998px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Features_b_Class {
+    position: absolute;
+    width: 122px;
+    height: 37px;
+    left: 963px;
+    top: 120px;
+    overflow: visible;
+}
+
+.Features_ca_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 123px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Contact_Us_cb_Class {
+    position: absolute;
+    width: 158px;
+    height: 34px;
+    left: 712px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Contact_Us;
+    cursor: pointer;
+}
+
+.Contact_Us_cc_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 410px;
+    top: 0px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+}
+
+.Magazines_Class {
+    position: absolute;
+    width: 150px;
+    height: 34px;
+    left: 198px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Magazines;
+    cursor: pointer;
+}
+
+.Magazines_cf_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 151px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.About_Class {
+    position: absolute;
+    width: 84px;
+    height: 34px;
+    left: 0px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Our_Story;
+    cursor: pointer;
+}
+
+.About_ch_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

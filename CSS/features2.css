@@ -1,0 +1,251 @@
+.mediaViewInfo {
+    --web-view-name: Features – 2;
+    --web-view-id: Features__2;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1d1e18;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #f61067;
+}
+
+:root {
+    --web-view-ids: Features__2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+.Features__2_Class {
+    position: absolute;
+    width: 1920px;
+    height: 1750px;
+    overflow: hidden;
+    --web-view-name: Features – 2;
+    --web-view-id: Features__2;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+.Black_Tint_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+    width: 1920px;
+    height: 10000px;
+}
+
+.Black_Tint {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 10000px;
+    left: 0px;
+    top: 0px;
+}
+
+.Collage_Class {
+    position: absolute;
+    width: 1480px;
+    height: 852.5px;
+    left: 220px;
+    top: 312px;
+    overflow: visible;
+}
+
+.Image8_Class {
+    position: absolute;
+    width: 362.223px;
+    height: 447.193px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image7_Class {
+    position: absolute;
+    width: 362px;
+    height: 490px;
+    left: 373px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image6_Class {
+    position: absolute;
+    width: 362px;
+    height: 427px;
+    left: 746px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image5_Class {
+    position: absolute;
+    width: 362px;
+    height: 447px;
+    left: 1118px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image4_Class {
+    position: absolute;
+    width: 361px;
+    height: 416px;
+    left: 746px;
+    top: 436px;
+    overflow: visible;
+}
+
+.Image3_Class {
+    position: absolute;
+    width: 362px;
+    height: 394px;
+    left: 0px;
+    top: 458px;
+    overflow: visible;
+}
+
+.Image2_Class {
+    position: absolute;
+    width: 362.622px;
+    height: 341.878px;
+    left: 372.595px;
+    top: 510.622px;
+    overflow: visible;
+}
+
+.Image1_Class {
+    position: absolute;
+    width: 362px;
+    height: 394px;
+    left: 1118px;
+    top: 458px;
+    overflow: visible;
+}
+
+.Exit_Button_Class {
+    position: sticky;
+    opacity: 0.5;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Exit_Button {
+    overflow: scroll;
+    position: sticky;
+    width: 41.427px;
+    height: 41.426px;
+    left: 44px;
+    top: 34.003px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Collage__Class {
+    position: absolute;
+    width: 1480px;
+    height: 852.5px;
+    left: 220px;
+    top: 1176px;
+    overflow: visible;
+}
+
+.Image8__Class {
+    position: absolute;
+    width: 362.223px;
+    height: 447.193px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image7__Class {
+    position: absolute;
+    width: 362px;
+    height: 490px;
+    left: 373px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image6__Class {
+    position: absolute;
+    width: 362px;
+    height: 427px;
+    left: 746px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image5__Class {
+    position: absolute;
+    width: 362px;
+    height: 447px;
+    left: 1118px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Image4__Class {
+    position: absolute;
+    width: 361px;
+    height: 456px;
+    left: 746px;
+    top: 436px;
+    overflow: visible;
+}
+
+.Image3__Class {
+    position: absolute;
+    width: 362px;
+    height: 394px;
+    left: 0px;
+    top: 458px;
+    overflow: visible;
+}
+
+.Image2__Class {
+    position: absolute;
+    width: 362.622px;
+    height: 341.878px;
+    left: 372.595px;
+    top: 510.622px;
+    overflow: visible;
+}
+
+.Image1__Class {
+    position: absolute;
+    width: 362px;
+    height: 394px;
+    left: 1118px;
+    top: 458px;
+    overflow: visible;
+}

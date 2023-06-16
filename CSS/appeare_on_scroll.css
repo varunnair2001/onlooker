@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+}

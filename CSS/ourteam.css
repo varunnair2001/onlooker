@@ -1,0 +1,1510 @@
+.mediaViewInfo {
+    --web-view-name: Our Team;
+    --web-view-id: Our_Team;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+.topnav {
+    display: none;
+    overflow: hidden;
+    background-color: rgba(255, 190, 11, 1);
+    position: relative;
+    top: -50px;
+    left: -25px;
+    width: 435px;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 27px;
+    font-family: 'gilroybold';
+    text-align: left;
+    display: block;
+}
+
+.topnav a.icon {
+    background: white;
+    display: block;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 1px;
+    top: 0px;
+}
+
+.topnav a:hover {
+    background-color: rgba(255, 190, 11, 1);
+    color: black;
+}
+
+.active {
+    background-color: white;
+    color: white;
+    height: 39px;
+}
+
+:root {
+    --web-view-ids: Our_Team;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1d1e18;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #f61067;
+}
+
+.bgvideo {
+    height: 897px;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.Our_Team_Class {
+    position: absolute;
+    width: 1920px;
+    height: 3754px;
+    background-color: rgba(255, 255, 255, 1);
+    --web-view-name: Our Team;
+    --web-view-id: Our_Team;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1522px;
+    height: 789px;
+    left: 199.5px;
+    top: 2865px;
+    overflow: visible;
+}
+
+.containerNav {
+    display: none;
+}
+
+.ONLOOKER_2020_Class {
+    left: 711.5px;
+    top: 769.5px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Copyright_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Copyright {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 688.5px;
+    top: 769px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Logo_Class {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 781.5px;
+    top: 666px;
+    overflow: visible;
+}
+
+.Rectangle_1822_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_1822 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_481_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_481 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 20.398px;
+    left: 9.702px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_482_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_482 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 7.214px;
+    left: 9.702px;
+    top: 9.702px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_483_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_483 {
+    overflow: visible;
+    position: absolute;
+    width: 19.403px;
+    height: 20.398px;
+    left: 20.896px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 690.5px;
+    top: 666px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.ID7th_floor__vl_Mehta_road__vi_Class {
+    left: 1135px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 241px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(65, 62, 62, 1);
+    text-transform: capitalize;
+}
+
+.Location_Icon_Class {
+    position: absolute;
+    width: 12.943px;
+    height: 20px;
+    left: 1100px;
+    top: 523px;
+    overflow: visible;
+}
+
+.Path_280_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_280 {
+    overflow: visible;
+    position: absolute;
+    width: 12.943px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_Class {
+    left: 1191px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -3.5px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Juweria_Jilani_-__91_98925_930_Class {
+    left: 633.5px;
+    top: 604px;
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Sakshi_Siddham_-__91_99108_179_Class {
+    left: 633.5px;
+    top: 571px;
+    position: absolute;
+    overflow: visible;
+    width: 312px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Phone_Icon_Class {
+    position: absolute;
+    width: 20.004px;
+    height: 20px;
+    left: 602px;
+    top: 571.217px;
+    overflow: visible;
+}
+
+.Path_279_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_279 {
+    overflow: visible;
+    position: absolute;
+    width: 20.004px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.onlookersnmimsgmailcom_Class {
+    left: 659px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Mail_Icon_Class {
+    position: absolute;
+    width: 26.423px;
+    height: 20px;
+    left: 612px;
+    top: 518px;
+    overflow: visible;
+}
+
+.Path_277_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_277 {
+    overflow: visible;
+    position: absolute;
+    width: 25.679px;
+    height: 11.603px;
+    left: 0.385px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_278_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_278 {
+    overflow: visible;
+    position: absolute;
+    width: 26.423px;
+    height: 17.297px;
+    left: 0px;
+    top: 2.703px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.contact_us_Class {
+    left: 687px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 156px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.Component_11__3_Class {
+    position: absolute;
+    width: 177px;
+    height: 23px;
+    left: 211.5px;
+    top: 559px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Terms__Conditions;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Component_10__3_Class {
+    position: absolute;
+    width: 124px;
+    height: 23px;
+    left: 238.5px;
+    top: 516px;
+    overflow: visible;
+}
+
+.Privacy_Policy_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Privacy_Policy;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Legal_Class {
+    left: 262px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.developed_by_tech_club_Class {
+    left: 647.5px;
+    top: 389px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+._Tech_Club_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 692.5px;
+    top: 231px;
+    overflow: visible;
+}
+
+.Right_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Right_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 945px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Footer_Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 640.5px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Left_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Left_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 0px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Our_Team_Section_Class {
+    position: absolute;
+    width: 1252.402px;
+    height: 1626.328px;
+    left: 333.599px;
+    top: 1145px;
+    overflow: visible;
+}
+
+.Kareena_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 852.401px;
+    top: 1226.061px;
+    overflow: visible;
+}
+
+.Kareena_Core_Pic_Class {
+    position: absolute;
+    width: 398.718px;
+    height: 400px;
+    left: 0.908px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(28, 26, 26, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 10 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines {
+    overflow: visible;
+    position: absolute;
+    width: 401.528px;
+    height: 338.477px;
+    left: 1.282px;
+    top: 34.023px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 103px;
+    left: 0px;
+    top: 240.939px;
+}
+
+.HOD__EDITORIALS_Class {
+    left: 31px;
+    top: 249.939px;
+    position: absolute;
+    overflow: visible;
+    width: 191px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Dhruv_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 690px;
+    top: 1226.328px;
+    overflow: visible;
+}
+
+.Dhruv_Core_Pic_Class {
+    position: absolute;
+    width: 398.859px;
+    height: 400px;
+    left: 1.141px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_bt_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(28, 26, 26, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_bt {
+    overflow: visible;
+    position: absolute;
+    width: 402.091px;
+    height: 368.794px;
+    left: 0.405px;
+    top: 28.568px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_bu_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_bu {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 103px;
+    left: 0px;
+    top: 240.672px;
+}
+
+.HOD__EDITORIALS_bv_Class {
+    left: 30px;
+    top: 249.672px;
+    position: absolute;
+    overflow: visible;
+    width: 191px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Suhaani_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 165px;
+    top: 1226.328px;
+    overflow: visible;
+}
+
+.Suhani_Core_pic_Class {
+    position: absolute;
+    width: 399.638px;
+    height: 399.626px;
+    left: 0.362px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_by_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(249, 241, 231, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_by {
+    overflow: visible;
+    position: absolute;
+    width: 337.955px;
+    height: 368.656px;
+    left: 22.088px;
+    top: 36.349px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_bz_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_bz {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 103px;
+    left: 0px;
+    top: 240.19px;
+}
+
+.HOD_DIGITAL__WORKS_Class {
+    left: 14px;
+    top: 251.513px;
+    position: absolute;
+    overflow: visible;
+    width: 224px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Anusha_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 852.401px;
+    top: 690px;
+    overflow: visible;
+}
+
+.Anusha_Core_Pic_Class {
+    position: absolute;
+    width: 399.548px;
+    height: 399.626px;
+    left: 0.01px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_b_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(255, 228, 196, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_b {
+    overflow: visible;
+    position: absolute;
+    width: 382.255px;
+    height: 347.193px;
+    left: 19.826px;
+    top: 55.477px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_b_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_b {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 103px;
+    left: 0px;
+    top: 266.655px;
+}
+
+.HOD_FINANCE___COLLABS_Class {
+    left: 8px;
+    top: 276.655px;
+    position: absolute;
+    overflow: visible;
+    width: 236px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Hriday_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 399.999px;
+    left: 426.401px;
+    top: 690px;
+    overflow: visible;
+}
+
+.Hriday_Core_Pic_Class {
+    position: absolute;
+    width: 399.795px;
+    height: 399.999px;
+    left: 0.205px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_ca_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(255, 228, 196, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 10 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_ca {
+    overflow: visible;
+    position: absolute;
+    width: 400.488px;
+    height: 330.067px;
+    left: 0.94px;
+    top: 30.489px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_ca_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_ca {
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    height: 118px;
+    left: 0px;
+    top: 254.578px;
+}
+
+.HOD__PHOTOGRAPHY___VIDEOGRAPHY_Class {
+    left: 13px;
+    top: 258.578px;
+    position: absolute;
+    overflow: visible;
+    width: 236px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Avichal_HOD_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 0px;
+    top: 690px;
+    overflow: visible;
+}
+
+.Avichal_Core_Pic_Class {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_cd_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(255, 228, 196, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_cd {
+    overflow: visible;
+    position: absolute;
+    width: 251.677px;
+    height: 401.466px;
+    left: 101.835px;
+    top: 0.049px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_ce_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_ce {
+    position: absolute;
+    overflow: visible;
+    width: 249px;
+    height: 103px;
+    left: 0.401px;
+    top: 270.313px;
+}
+
+.HOD_PR___MARKETING_Class {
+    left: 28.401px;
+    top: 280.313px;
+    position: absolute;
+    overflow: visible;
+    width: 195px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Juweria_Vice_President_Class {
+    position: absolute;
+    width: 475px;
+    height: 480px;
+    left: 636.401px;
+    top: 150px;
+    overflow: visible;
+}
+
+.Juweria_Core_Pic_Class {
+    position: absolute;
+    width: 474.992px;
+    height: 480px;
+    left: 0.008px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_ci_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(28, 26, 26, 1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 10 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_ci {
+    overflow: visible;
+    position: absolute;
+    width: 461.236px;
+    height: 460.169px;
+    left: 1.566px;
+    top: 19.306px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_cj_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_cj {
+    position: absolute;
+    overflow: visible;
+    width: 335px;
+    height: 102px;
+    left: 0px;
+    top: 285.532px;
+}
+
+.VICE-PRESIDENT_Class {
+    left: 13px;
+    top: 312.348px;
+    position: absolute;
+    overflow: visible;
+    width: 310px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Sakshi_President_Class {
+    position: absolute;
+    width: 475px;
+    height: 480px;
+    left: 132.401px;
+    top: 150px;
+    overflow: visible;
+}
+
+.Sakshi_Core_Pic_Class {
+    position: absolute;
+    width: 475px;
+    height: 479.933px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dotted_Lines_cn_Class {
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgba(255, 228, 196, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dotted_Lines_cn {
+    overflow: visible;
+    position: absolute;
+    width: 122.506px;
+    height: 478.697px;
+    left: 152.715px;
+    top: 6.213px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Text_Box_co_Class {
+    opacity: 0.62;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Text_Box_co {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 102px;
+    left: 0px;
+    top: 280.95px;
+}
+
+.PRESIDENT_Class {
+    left: 25px;
+    top: 307.952px;
+    position: absolute;
+    overflow: visible;
+    width: 203px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.OUR_TEAM_Class {
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.571));
+    left: 334.401px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 586px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(255, 190, 11, 1);
+}
+
+.Landing_Section_Class {
+    position: absolute;
+    width: 1920px;
+    height: 897px;
+    left: 0px;
+    top: 120px;
+    overflow: visible;
+}
+
+.Background_Video_Class {
+    position: absolute;
+    width: 1920px;
+    height: 897px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Black_Layer_Class {
+    opacity: 0.64;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Black_Layer {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 897px;
+    left: 0px;
+    top: 0px;
+}
+
+.ideas_Class {
+    filter: drop-shadow(-5px 5px 0px rgba(255, 255, 255, 1));
+    left: 1177px;
+    top: 453px;
+    position: absolute;
+    overflow: visible;
+    width: 306px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(246, 16, 103, 1);
+}
+
+.clubs_Class {
+    filter: drop-shadow(-5px 5px 0px rgba(255, 255, 255, 1));
+    left: 847px;
+    top: 453px;
+    position: absolute;
+    overflow: visible;
+    width: 295px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(92, 29, 229, 1);
+}
+
+.people_Class {
+    filter: drop-shadow(-5px 5px 0px rgba(255, 255, 255, 1));
+    left: 439px;
+    top: 453px;
+    position: absolute;
+    overflow: visible;
+    width: 391px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(255, 190, 11, 1);
+}
+
+.CONNECTING_Class {
+    left: 452px;
+    top: 302px;
+    position: absolute;
+    overflow: visible;
+    width: 1019px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.5px;
+}
+
+.About_Us_Slider_Class {
+    position: absolute;
+    width: 546px;
+    height: 76px;
+    left: 687px;
+    top: 979px;
+    overflow: visible;
+}
+
+.Slider_Class {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 0.051);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Slider {
+    overflow: visible;
+    position: absolute;
+    width: 546px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Selector_c_Class {
+    fill: url(#Selector_c);
+}
+
+.Selector_c {
+    position: absolute;
+    overflow: visible;
+    width: 181px;
+    height: 76px;
+    left: 181px;
+    top: 0px;
+}
+
+.departments_Class {
+    left: 389px;
+    top: 24px;
+    position: absolute;
+    overflow: visible;
+    width: 129px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s linear;
+    --web-action-type: view;
+    --web-action-target: Departments;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(112, 112, 112, 1);
+}
+
+.departments_Class:hover {
+    background: -webkit-linear-gradient(#ffbe0b, #f61067);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.our_team_Class {
+    left: 227px;
+    top: 24px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.our_story_Class {
+    left: 46px;
+    top: 24px;
+    position: absolute;
+    overflow: visible;
+    width: 95px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s linear;
+    --web-action-type: view;
+    --web-action-target: Our_Story;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(112, 112, 112, 1);
+}
+
+.our_story_Class:hover {
+    background: -webkit-linear-gradient(#ffbe0b, #f61067);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1458.293px;
+    height: 240px;
+    left: 417px;
+    top: -60px;
+    overflow: visible;
+}
+
+.Instagram_Nav_c_Class {
+    fill: url(#Instagram_Nav_c);
+}
+
+.Instagram_Nav_c {
+    overflow: visible;
+    position: absolute;
+    width: 97.335px;
+    height: 159.806px;
+    left: 1360.958px;
+    top: 59.999px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Nav_Class {
+    fill: rgba(14, 118, 168, 1);
+}
+
+.Linkedin_Nav {
+    overflow: visible;
+    position: absolute;
+    width: 97.337px;
+    height: 159.807px;
+    left: 1271px;
+    top: 59.998px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Features_Class {
+    position: absolute;
+    width: 120px;
+    height: 34px;
+    left: 965px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Features;
+    cursor: pointer;
+}
+
+.Features_da_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Contact_Us_db_Class {
+    position: absolute;
+    width: 158px;
+    height: 34px;
+    left: 713px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Contact_Us;
+    cursor: pointer;
+}
+
+.Contact_Us_dc_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 411px;
+    top: 0px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+}
+
+.Magazines_Class {
+    position: absolute;
+    width: 150px;
+    height: 34px;
+    left: 199px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Magazines;
+    cursor: pointer;
+}
+
+.Magazines_df_Class {
+    left: 0px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 151px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.About_Class {
+    position: absolute;
+    width: 86px;
+    height: 37px;
+    left: 0px;
+    top: 111px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Our_Story;
+    cursor: pointer;
+}
+
+.About_dh_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Selector_c2 {
+    display: none;
+}
+
+.people__desc {
+    font-size: 25px;
+}

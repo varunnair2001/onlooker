@@ -1,0 +1,1182 @@
+.mediaViewInfo {
+    --web-view-name: Magazines;
+    --web-view-id: Magazines;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+.mobile_previous {
+    display: none;
+}
+
+.topnav {
+    display: none;
+    overflow: hidden;
+    background-color: rgba(255, 190, 11, 1);
+    position: relative;
+    width: 400px;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 27px;
+    font-family: 'gilroybold';
+    text-align: left;
+    display: block;
+}
+
+.topnav a.icon {
+    background: white;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: rgba(255, 190, 11, 1);
+    color: black;
+}
+
+.active {
+    background-color: white;
+    color: white;
+    height: 49px;
+}
+
+:root {
+    --web-view-ids: Magazines;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1d1e18;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #f61067;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+.Magazines_Class {
+    position: absolute;
+    width: 1920px;
+    height: 3985px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Magazines;
+    --web-view-id: Magazines;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1522px;
+    height: 789px;
+    left: 199.5px;
+    top: 3096px;
+    overflow: visible;
+}
+
+.ONLOOKER_2020_Class {
+    left: 711.5px;
+    top: 769.5px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Copyright_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Copyright {
+    overflow: visible;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 688.5px;
+    top: 769px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Logo_Class {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 781.5px;
+    top: 666px;
+    overflow: visible;
+}
+
+.Rectangle_1822_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Rectangle_1822 {
+    position: absolute;
+    overflow: visible;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_481_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_481 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 20.398px;
+    left: 9.701px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_482_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_482 {
+    overflow: visible;
+    position: absolute;
+    width: 7.214px;
+    height: 7.214px;
+    left: 9.701px;
+    top: 9.702px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_483_Class {
+    fill: rgba(254, 254, 254, 1);
+}
+
+.Path_483 {
+    overflow: visible;
+    position: absolute;
+    width: 19.403px;
+    height: 20.398px;
+    left: 20.896px;
+    top: 19.901px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 690.5px;
+    top: 666px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.ID7th_floor__vl_Mehta_road__vi_Class {
+    left: 1135px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 241px;
+    white-space: nowrap;
+    line-height: 30px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(65, 62, 62, 1);
+    text-transform: capitalize;
+}
+
+.Location_Icon_Class {
+    position: absolute;
+    width: 12.943px;
+    height: 20px;
+    left: 1100px;
+    top: 523px;
+    overflow: visible;
+}
+
+.Path_280_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_280 {
+    overflow: visible;
+    position: absolute;
+    width: 12.942px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_Class {
+    left: 1191px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -3.5px;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Juweria_Jilani_-__91_98925_930_Class {
+    left: 633.5px;
+    top: 604px;
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Sakshi_Siddham_-__91_99108_179_Class {
+    left: 633.5px;
+    top: 571px;
+    position: absolute;
+    overflow: visible;
+    width: 312px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Phone_Icon_Class {
+    position: absolute;
+    width: 20.004px;
+    height: 20px;
+    left: 602px;
+    top: 571.217px;
+    overflow: visible;
+}
+
+.Path_279_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_279 {
+    overflow: visible;
+    position: absolute;
+    width: 20.003px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.onlookersnmimsgmailcom_Class {
+    left: 659px;
+    top: 516px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Mail_Icon_Class {
+    position: absolute;
+    width: 26.423px;
+    height: 20px;
+    left: 612px;
+    top: 518px;
+    overflow: visible;
+}
+
+.Path_277_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_277 {
+    overflow: visible;
+    position: absolute;
+    width: 25.678px;
+    height: 11.603px;
+    left: 0.386px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_278_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Path_278 {
+    overflow: visible;
+    position: absolute;
+    width: 26.423px;
+    height: 17.297px;
+    left: 0px;
+    top: 2.703px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.contact_us_Class {
+    left: 687px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 156px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.Component_11__5_Class {
+    position: absolute;
+    width: 177px;
+    height: 23px;
+    left: 211.5px;
+    top: 559px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Terms__Conditions;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Component_10__5_Class {
+    position: absolute;
+    width: 124px;
+    height: 23px;
+    left: 238.5px;
+    top: 516px;
+    overflow: visible;
+}
+
+.Privacy_Policy_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 125px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Privacy_Policy;
+    cursor: pointer;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(78, 71, 71, 1);
+}
+
+.Legal_Class {
+    left: 262px;
+    top: 459px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+.developed_by_tech_club_Class {
+    left: 647.5px;
+    top: 389px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    text-transform: capitalize;
+}
+
+._Tech_Club_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 692.5px;
+    top: 231px;
+    overflow: visible;
+}
+
+.Right_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Right_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 945px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Footer_Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 640.5px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Left_Line_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Left_Line {
+    overflow: visible;
+    position: absolute;
+    width: 577px;
+    height: 5px;
+    left: 0px;
+    top: 118.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Previous_Issue_Section_Class {
+    position: absolute;
+    width: 1600px;
+    height: 1259px;
+    left: 160px;
+    top: 1808px;
+    overflow: visible;
+}
+
+.Previous_Issue_Grid_Class {
+    opacity: 0.1;
+    position: absolute;
+    width: 1600px;
+    height: 1259px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.PREVIOUS_ISSUE_Class {
+    left: 0px;
+    top: 254px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(255, 190, 11, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bo_Class {
+    left: 0px;
+    top: 123px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(47, 25, 95, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bp_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(246, 16, 103, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bq_Class {
+    left: 0px;
+    top: 633px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(255, 190, 11, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_br_Class {
+    left: 0px;
+    top: 502px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(47, 25, 95, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bs_Class {
+    left: 0px;
+    top: 379px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(246, 16, 103, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bt_Class {
+    left: 0px;
+    top: 1014px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(255, 190, 11, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bu_Class {
+    left: 0px;
+    top: 883px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(47, 25, 95, 1);
+    letter-spacing: 0.35px;
+}
+
+.PREVIOUS_ISSUE_bv_Class {
+    left: 0px;
+    top: 760px;
+    position: absolute;
+    overflow: visible;
+    width: 1601px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 200px;
+    color: rgba(246, 16, 103, 1);
+    letter-spacing: 0.35px;
+}
+
+.Previous_Issue_Magazines_Class {
+    position: absolute;
+    width: 1520.253px;
+    height: 650.027px;
+    left: 40px;
+    top: 350px;
+    overflow: visible;
+}
+
+.Oct_17_Issue_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 644.884px;
+    height: 650.027px;
+    left: 875.369px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Aug_20_Issue_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 635.627px;
+    height: 650.027px;
+    left: 431.185px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Oct_18_Issue_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 661.431px;
+    height: 650.027px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Latest_Issue_Section_Class {
+    position: absolute;
+    width: 1919px;
+    height: 1438.5px;
+    left: 1.5px;
+    top: 248px;
+    overflow: visible;
+}
+
+.Yellow_Background_Class {
+    fill: rgba(255, 190, 11, 1);
+}
+
+.Yellow_Background {
+    position: absolute;
+    overflow: visible;
+    width: 1919px;
+    height: 827px;
+    left: 0px;
+    top: 611.5px;
+}
+
+.Download_Button_Class {
+    position: absolute;
+    width: 471.013px;
+    height: 80.426px;
+    left: 723.121px;
+    top: 1282.846px;
+    overflow: visible;
+}
+
+.Button_Class {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(255, 190, 11, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Button {
+    overflow: visible;
+    position: absolute;
+    width: 472.013px;
+    height: 81.426px;
+    left: 40px;
+    top: 7px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 1));
+}
+
+.Download_Icon_Class {
+    fill: rgba(246, 16, 103, 1);
+}
+
+.Download_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 45.661px;
+    height: 41.727px;
+    left: 337.669px;
+    top: 19.436px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.DOWNLOAD_Class {
+    left: 102.879px;
+    top: 17.213px;
+    position: absolute;
+    overflow: visible;
+    width: 275px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(246, 16, 103, 1);
+    letter-spacing: 0.5px;
+}
+
+.Latest_Issue_Magazine_Class {
+    filter: drop-shadow(7px 7px 50px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 664px;
+    height: 939px;
+    left: 1066.5px;
+    top: 299px;
+    overflow: visible;
+}
+
+.Arrow_Class {
+    position: absolute;
+    width: 375px;
+    height: 450.884px;
+    left: 540px;
+    top: 180.568px;
+    overflow: visible;
+}
+
+.Arrow_Point_Class {
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Arrow_Point {
+    overflow: visible;
+    position: absolute;
+    width: 60px;
+    height: 76px;
+    transform: translate(-663.797px, -408.568px) matrix(1, 0, 0, 1, 964, 755.0001) rotate(74deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Arrow_Curve_Class {
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Arrow_Curve {
+    overflow: visible;
+    position: absolute;
+    width: 202.398px;
+    height: 412.557px;
+    transform: translate(-663.797px, -408.568px) matrix(1, 0, 0, 1, 713.7379, 427.7311) rotate(-15deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.LATEST_ISSUE_Class {
+    filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.571));
+    left: 589.5px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 739px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(255, 190, 11, 1);
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1457.293px;
+    height: 240px;
+    left: 418px;
+    top: -60px;
+    overflow: visible;
+}
+
+.Instagram_Nav_cd_Class {
+    fill: url(#Instagram_Nav_cd);
+}
+
+.Instagram_Nav_cd {
+    overflow: visible;
+    position: absolute;
+    width: 97.335px;
+    height: 159.806px;
+    left: 1359.958px;
+    top: 59.999px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Linkedin_Nav_Class {
+    fill: rgba(14, 118, 168, 1);
+}
+
+.Linkedin_Nav {
+    overflow: visible;
+    position: absolute;
+    width: 97.337px;
+    height: 159.807px;
+    left: 1270px;
+    top: 59.998px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Features_Class {
+    position: absolute;
+    width: 120px;
+    height: 34px;
+    left: 964px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Features;
+    cursor: pointer;
+}
+
+.Features_cg_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 121px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Contact_Us_ch_Class {
+    position: absolute;
+    width: 158px;
+    height: 34px;
+    left: 712px;
+    top: 122px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Contact_Us;
+    cursor: pointer;
+}
+
+.Contact_Us_ci_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 410px;
+    top: 0px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+}
+
+.Magazines_ck_Class {
+    position: absolute;
+    width: 152px;
+    height: 37px;
+    left: 197px;
+    top: 111px;
+    overflow: visible;
+}
+
+.Magazines_cl_Class {
+    left: 0px;
+    top: 12px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroybold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.About_Class {
+    position: absolute;
+    width: 84px;
+    height: 34px;
+    left: 0px;
+    top: 113px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Our_Story;
+    cursor: pointer;
+}
+
+.About_cn_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "gilroylight";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.Previous_ISSUE_Class {
+    display: none;
+}
+
+.containerNav {
+    display: none;
+}
+
+.sample-flipbook1 {
+    display: block;
+    left: 335px;
+    margin-right: 0px;
+    margin-left: 0px;
+    -webkit-transition: margin-left 0.2s;
+    -moz-transition: margin-left 0.2s;
+    -ms-transition: margin-left 0.2s;
+    -o-transition: margin-left 0.2s;
+    transition: margin-left 0.2s;
+    overflow: hidden;
+}
+
+.sample-flipbook1 .page {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    line-height: 375px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    direction: rtl;
+    overflow: hidden;
+}
+
+.sample-flipbook1 .page-wrapper {
+    -webkit-perspective: 2500px;
+    -moz-perspective: 2500px;
+    -ms-perspective: 2500px;
+    -o-perspective: 2500px;
+    perspective: 2500px;
+    overflow: hidden;
+}
+
+.sample-flipbook1 .hard {
+    background: #ccc !important;
+    color: #333;
+    -webkit-box-shadow: inset 0 0 5px #666;
+    -moz-box-shadow: inset 0 0 5px #666;
+    -o-box-shadow: inset 0 0 5px #666;
+    -ms-box-shadow: inset 0 0 5px #666;
+    box-shadow: inset 0 0 5px #666;
+    font-weight: bold;
+}
+
+.sample-flipbook1 .odd {
+    background: -webkit-gradient(linear, right top, left top, color-stop(0.95, #FFF), color-stop(1, #DADADA));
+    background-image: -webkit-linear-gradient(right, #FFF 95%, #C4C4C4 100%);
+    background-image: -moz-linear-gradient(right, #FFF 95%, #C4C4C4 100%);
+    background-image: -ms-linear-gradient(right, #FFF 95%, #C4C4C4 100%);
+    background-image: -o-linear-gradient(right, #FFF 95%, #C4C4C4 100%);
+    background-image: linear-gradient(right, #FFF 95%, #C4C4C4 100%);
+    -webkit-box-shadow: inset 0 0 5px #666;
+    -moz-box-shadow: inset 0 0 5px #666;
+    -o-box-shadow: inset 0 0 5px #666;
+    -ms-box-shadow: inset 0 0 5px #666;
+    box-shadow: inset 0 0 5px #666;
+}
+
+.sample-flipbook1 .even {
+    background: -webkit-gradient(linear, left top, right top, color-stop(0.95, rgb(255, 190, 11)), color-stop(1, rgb(255, 190, 11)));
+    background-image: -webkit-linear-gradient(left, rgb(255, 190, 11) 95%, rgb(255, 190, 11) 100%);
+    background-image: -moz-linear-gradient(left, rgb(255, 190, 11) 95%, rgb(255, 190, 11) 100%);
+    background-image: -ms-linear-gradient(left, rgb(255, 190, 11) 95%, rgb(255, 190, 11) 100%);
+    background-image: -o-linear-gradient(left, rgb(255, 190, 11) 95%, rgb(255, 190, 11) 100%);
+    background-image: linear-gradient(left, rgb(255, 190, 11)95%, rgb(255, 190, 11) 100%);
+    -webkit-box-shadow: inset 0 0 5px #666;
+    -moz-box-shadow: inset 0 0 5px #666;
+    -o-box-shadow: inset 0 0 5px #666;
+    -ms-box-shadow: inset 0 0 5px #666;
+    box-shadow: inset 0 0 5px #666;
+}
+
+.sample-flipbook1 img {
+    max-width: 500%;
+    height: 100%;
+}
+
+.sample-flipbook1 .Content_magazine_latest_issue {
+    max-width: 500%;
+    height: 101%;
+}
+
+.btn {
+    font-size: 150px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 425px;
+    transform: translateY(-50%);
+}
+
+.next {
+    display: block;
+    right: 120px;
+}
+
+.prev {
+    display: block;
+    left: 80px;
+}
+
+.flipbook-wrap {
+    position: relative;
+    top: 200px;
+    left: 20px;
+}
