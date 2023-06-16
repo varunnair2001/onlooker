@@ -1,0 +1,80 @@
+<?php
+
+$servername = "techclubnmims";
+$username = "techclubnmims";
+$password = "techclubnmims";
+$database = 'onlooker';
+
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $database);
+
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+
+if (isset($_POST['submit'])) {
+	$fileName = $_FILES['file']['name'];
+	$fileTmpName = $_FILES['file']['tmp_name'];
+	$fileSize = $_FILES['file']['size'];
+	$fileError = $_FILES['file']['error'];
+	$name = $_POST['name'];
+    $email = $_POST['email'];
+    $number = $_POST['number'];
+    $content = $_POST['content'];
+	
+
+    if ($name != '' && $email != '' && $number != '' && $content != '') {
+    	if ($fileError === 0){
+        	if ($fileSize > 50000){
+            	$message = 'Maximum file size allowed is 50mb.';
+            } else {
+            	$fileNewName = $fileName;
+            	$fileDestination = 'uploads/'.$fileNewName;
+            	$result = move_uploaded_file($fileTmpName, $fileDestination);
+            	if ($result === true){
+                	echo "success";
+                } else {
+                	echo $fileDestination;
+                }
+            	$sql = "INSERT INTO workform (name, email, contact, content, filepath)
+        		VALUES ('$name', '$email', $number, '$content', '$fileDestination')";
+
+        		if ($conn->query($sql) === TRUE) {
+        			$message = 'Request recorded successfully';
+        		} else {
+        			$message = 'There was an error. Please try again.';
+            	}
+            }
+        	
+        } else {
+        	$message = 'There was an error uploading the file. Please try again.';
+        }
+	} else {
+        $message = 'Please fill in all the fields.';
+    }
+}
+
+if (isset($_POST['contact-submit'])) {
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $number = $_POST['number'];
+    $content = $_POST['content'];
+	
+
+    if ($name != '' && $email != '' && $number != '' && $content != '') {
+        $sql = "INSERT INTO contactus (name, email, contact, content)
+        VALUES ('$name', '$email', $number, '$content')";
+
+        if ($conn->query($sql) === TRUE) {
+        $message = 'Request recorded uccessfully';
+        } else {
+        $message = 'There was an error. Please try again.';
+        }
+    } else {
+        $message = 'Please fill in all the fields.';
+    }
+}
+
+?>
